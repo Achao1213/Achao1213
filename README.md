@@ -1,12 +1,14 @@
-### 22届毕业大学生
-### Java开发工程师
-### 深圳
-
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/ADKcodeXD/ADKcodeXD/assets/88375547/b4d15b0b-6398-480b-bc3c-821d11c96103">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
+
+
+### 22届毕业大学生
+### Java开发工程师
+### 深圳
+### 重度电吉他爱好者
 
 🌱 I’m currently learning AKshare and Tushare
 <!--
