@@ -1,8 +1,4 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="C:\Users\Administrator\Desktop\60s+dsl5cr.png">
- <source media="(prefers-color-scheme: light)" srcset="C:\Users\Administrator\Desktop\60s+dsl5cr.png">
- <img alt="哈哈" src="C:\Users\Administrator\Desktop\60s+dsl5cr.png">
-</picture>
+
 
 ### 22届毕业大学生
 ### Java开发工程师
