@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="目前还没想好放啥" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Achao1213/Achao1213/blob/main/60s%2Bdsl5cr.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Achao1213/Achao1213/blob/main/60s%2Bdsl5cr.png">
+ <img alt="哈哈" src="https://github.com/Achao1213/Achao1213/blob/main/60s%2Bdsl5cr.png">
 </picture>
 
 
